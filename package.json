@@ -1,7 +1,7 @@
 {
   "name": "atom-snazzy-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An elegant Syntax not so bright snazzy-theme for Atom -- based on https://github.com/sindresorhus/iterm2-snazzy",
   "keywords": [
     "syntax",
