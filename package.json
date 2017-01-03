@@ -2,12 +2,13 @@
   "name": "atom-snazzy-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "An elegant Syntax not so bright snazzy-theme for Atom -- based on https://github.com/sindresorhus/iterm2-snazzy",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "snazzy"
   ],
-  "repository": "https://github.com/atom/atom-snazzy-syntax",
+  "repository": "https://github.com/florianb/atom-snazzy-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
