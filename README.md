@@ -2,7 +2,7 @@
 
 An elegant Syntax _not so bright_ snazzy-theme for Atom -- based on https://github.com/sindresorhus/iterm2-snazzy
 
-![The not so bright snazzy-theme]()
+![The not so bright snazzy-theme](https://github.com/florianb/atom-snazzy-syntax/blob/master/atom-snazzy-syntax-lowq.jpg?raw=true)
 
 This theme aims for
 
