@@ -12,4 +12,4 @@ This theme aims for
 
 ## This theme is a living work in progress
 
-Since i don't have any experience and i think i missed a lot settings i should considered. However - if you feel you'd like to change anything propose a PR or open an Issue.
+Since i don't have any experience in creating themes for Atom i think i missed a lot of impovements. However - if you feel you'd like to change anything propose a PR or open an Issue. :heart:
